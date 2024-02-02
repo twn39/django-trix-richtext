@@ -3,7 +3,21 @@
 
 ### Install
 
-  pip install django-trix-richtext
+```shell
+pip install django-trix-richtext
+```
+
+```py
+INSTALLED_APPS = [
+    'trixeditor.apps.TrixEditorConfig',  ## enable 
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+]
+```
 
 ### Usage
 
