@@ -24,4 +24,4 @@ readme = "README.md"
 name = "trixeditor"
 
 [project.urls]
-Home = "https://github.com/twn39"
+Home = "https://github.com/twn39/django-trix-richtext"
