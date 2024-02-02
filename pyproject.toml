@@ -3,7 +3,7 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "django-trixeditor"
+name = "django-trix-richtext"
 authors = [{name = "Weinan Tang", email = "twn39@163.com"}]
 license = {file = "LICENSE"}
 classifiers = [
